@@ -29,7 +29,7 @@
 		<view class="cate-section">
 			<view class="cate-item">
 				<image src="/static/temp/c3.png"></image>
-				<text>环球美食</text>
+				<text>环球美食1</text>
 			</view>
 			<view class="cate-item">
 				<image src="/static/temp/c5.png"></image>
